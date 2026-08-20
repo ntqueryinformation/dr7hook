@@ -1,0 +1,22 @@
+# build outputs
+build/
+obj/
+*.exe
+*.dll
+*.lib
+*.exp
+*.obj
+*.pdb
+*.ilk
+*.ipdb
+*.iobj
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.aps
+*.code-workspace
+
+# demo artifacts
+hwbp_internal_demo.log
